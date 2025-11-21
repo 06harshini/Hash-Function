@@ -1,0 +1,14 @@
+# Quartus / Vivado / Icarus / ModelSim files
+*.vcd
+*.vvp
+*.wlf
+*.o
+*.exe
+*.log
+*.sim
+*.bak
+*.swp
+
+# OS generated
+.DS_Store
+Thumbs.db
